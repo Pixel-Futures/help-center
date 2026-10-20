@@ -16,6 +16,18 @@
           "index",
           "quickstart"
         ]
+      },
+      {
+        "group": "Challenges",
+        "pages": [
+          {
+            "group": "Alpha",
+            "expanded": true,
+            "pages": [
+              "all-collections/challenges/alpha/evaluation-parameters"
+            ]
+          }
+        ]
       }
     ],
     "global": {
